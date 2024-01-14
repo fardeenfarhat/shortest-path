@@ -77,5 +77,5 @@ City shortest Path Finder is released under the [MIT License](LICENSE)
 ## Contact
 
 If you have any questions, feedback, or just want to get in touch, feel free to reach out via email:
--**Email:** fardeenfarhat@gmail.com
--**Email:** ulwahabzain@gmail.com
+- **Email:** fardeenfarhat@gmail.com
+- **Email:** ulwahabzain@gmail.com
